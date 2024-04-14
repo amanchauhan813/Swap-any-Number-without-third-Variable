@@ -1,0 +1,7 @@
+a=input('enter first digit')
+b=input('enter second digit')
+print('number before swaping')
+print('a=',a, '  b=',b,)
+(a,b)=(b,a)
+print('Number after Swapping')
+print('a=',a, '  b=',b,)
